@@ -1,6 +1,4 @@
 /venv
 .env
-/data/RAW_DATA.csv
-/data/rappi_delivery_case_data.xlsx
-/data/ZONE_INFO.csv
-/data/ZONE_POLYGONS.csv
+.DS_Store
+summary_test.log
